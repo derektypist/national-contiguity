@@ -40,6 +40,8 @@ h1 {
     height: 800px;
     width: 1000px;
     margin: auto;
+    box-shadow: -3px 3px 20px black;
+    background-color: black;
 }
 
 /* Nodes */
