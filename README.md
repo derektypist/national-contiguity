@@ -10,3 +10,7 @@ As a user, I can see each country's flag on its node.
 
 Dataset at https://raw.githubusercontent.com/DealPete/forceDirected/master/countries.json
 
+## Features
+
+The ability to view a country when hovering.
+
