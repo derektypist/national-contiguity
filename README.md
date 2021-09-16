@@ -14,3 +14,27 @@ Dataset at https://raw.githubusercontent.com/DealPete/forceDirected/master/count
 
 The ability to view a country when hovering.
 
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Google Fonts and d3 (Version 4.13.0).
+
+## Testing
+
+Ensure user stories have been met
+
+## Deployment
+
+- [On CodePen](https://codepen.io/derektypist/pen/jOwBjmO)
+- [GitHub Pages](https://derektypist.github.io/national-contiguity) at Main Branch.
+
+## Credits
+
+### Content
+
+JSON Data provided by FreeCodeCamp.  Went to Flag Sprites website at https://www.flag-sprites.com.  Code taken from Sean Murphy 
+
+### Acknowledgements
+
+- [FreeCodeCamp](https://www.freecodecamp.org)
+- [Sean Murphy](https://codepen.io/Nazarja/pen/vREPgr)
+- [Flag Sprites](https://www.flag-sprites.com)
